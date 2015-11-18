@@ -1,2 +1,3 @@
-# mac-setup
-Just stuff for setting up a Mac.
+# Mac Setup
+
+> Just stuff for setting up a Mac.

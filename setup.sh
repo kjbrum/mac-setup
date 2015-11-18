@@ -93,6 +93,7 @@ brew update && brew upgrade --all && brew cleanup && brew cask cleanup
 # Install Casks
 echo "Installing Homebrew casks..."
 apps=(
+    1password
     alfred
     appcleaner
     atom
@@ -108,7 +109,6 @@ apps=(
     miro-video-converter
     mou
     noizio
-    onepassword
     sequel-pro
     sketch
     skype
